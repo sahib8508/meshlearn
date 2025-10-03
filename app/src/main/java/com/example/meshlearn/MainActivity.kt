@@ -91,7 +91,7 @@ fun ChessGame() {
             },
             modifier = Modifier.fillMaxWidth()
         ) {
-            Text("Anurag", fontSize = 18.sp)
+            Text("Say my Name", fontSize = 18.sp)
         }
     }
 }
