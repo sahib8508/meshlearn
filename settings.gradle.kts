@@ -21,5 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "meshlearn"
 include(":app")
-
-//This change is made by me (You know me, Say my Name... Say it.. )
